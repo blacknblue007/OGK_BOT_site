@@ -20,6 +20,6 @@
 <body>
   <h1>Politique de Confidentialité</h1>
   <p>Ce bot ne collecte aucune donnée personnelle. Les informations nécessaires à son fonctionnement sont uniquement stockées temporairement et ne sont jamais partagées.</p>
-  <p>Pour toute question concernant la confidentialité, contactez : ton_email@example.com</p>
+  <p>Pour toute question concernant la confidentialité, contactez : nour.cha05@gmail.com</p>
 </body>
 </html>
