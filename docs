@@ -1,1 +1,45 @@
-mkdir docs
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Terms of Service & Privacy Policy</title>
+</head>
+<body>
+    <h1>Terms of Service et Privacy Policy pour OGK_BOT</h1>
+
+    <h2>1. Conditions d'utilisation</h2>
+    <p>
+        En utilisant OGK_BOT, vous acceptez de respecter les règles et directives de Discord ainsi que les présentes conditions.
+        Vous ne devez pas utiliser le bot pour diffuser du contenu illégal, offensant ou violant les droits d'autrui.
+    </p>
+
+    <h2>2. Utilisation du bot</h2>
+    <p>
+        OGK_BOT est fourni "tel quel". Nous ne garantissons pas que le bot sera disponible en permanence ni exempt d'erreurs.
+        Vous êtes responsable de l'utilisation que vous faites du bot et de tout contenu généré ou partagé via celui-ci.
+    </p>
+
+    <h2>3. Collecte de données</h2>
+    <p>
+        OGK_BOT ne collecte pas d'informations personnelles sensibles. Les seules données traitées sont celles nécessaires pour son fonctionnement sur Discord,
+        comme votre identifiant utilisateur et les interactions avec le bot. Ces données ne sont pas partagées avec des tiers.
+    </p>
+
+    <h2>4. Sécurité</h2>
+    <p>
+        Nous mettons en place des mesures raisonnables pour protéger les données traitées par OGK_BOT, mais nous ne pouvons garantir une sécurité totale.
+        Vous êtes responsable de la confidentialité de votre compte Discord.
+    </p>
+
+    <h2>5. Modifications</h2>
+    <p>
+        Nous pouvons mettre à jour ces conditions à tout moment. L'utilisation continue du bot implique l'acceptation des mises à jour.
+    </p>
+
+    <h2>6. Contact</h2>
+    <p>
+        Pour toute question concernant ces conditions ou la protection de vos données, vous pouvez nous contacter via Discord.
+    </p>
+
+</body>
+</html>
