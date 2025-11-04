@@ -10,7 +10,6 @@
     <p>2. Data: The bot may temporarily process messages and voice data to play music. No data is stored permanently.</p>
     <p>3. Liability: The developer is not responsible for any misuse of the bot.</p>
     <p>4. Contact: For any issues, contact the developer via Discord: 869261967024590930</p>
-</body>
 </html>
 <html lang="fr">
 <head>
