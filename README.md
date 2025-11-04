@@ -12,3 +12,14 @@
     <p>4. Contact: For any issues, contact the developer via Discord: 869261967024590930</p>
 </body>
 </html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - OGK_BOT</title>
+</head>
+<body>
+  <h1>Politique de Confidentialité</h1>
+  <p>Ce bot ne collecte aucune donnée personnelle. Les informations nécessaires à son fonctionnement sont uniquement stockées temporairement et ne sont jamais partagées.</p>
+  <p>Pour toute question concernant la confidentialité, contactez : ton_email@example.com</p>
+</body>
+</html>
